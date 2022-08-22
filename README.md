@@ -4,6 +4,6 @@
 
 ## Example .env file:
 
-  NODE_ENV = development
-  PORT = 3000
+  NODE_ENV = development <br>
+  PORT = 3000 <br>
   MONGO_URI = mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]
